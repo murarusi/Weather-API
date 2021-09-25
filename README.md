@@ -1,4 +1,4 @@
-Hi my name is Claudiu and i made this project with:
+
 -java fx
 -GSon library
 -openWeather.com
